@@ -2,5 +2,5 @@ format: jb-book
 root: index
 chapters:
 - file: project_1.ipynb
-- file: project 2.ipynb
-- file: Project 3 Notebook.ipynb
+- file: project_2.ipynb
+- file: project_3.ipynb
