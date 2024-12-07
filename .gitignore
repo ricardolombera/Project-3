@@ -1,0 +1,11 @@
+#*.csv
+*.slides.html
+*.zip
+
+__pycache__/
+_build/
+.ipynb_checkpoints/
+tmp/
+
+# override the global
+!.vscode/settings.json
